@@ -1,16 +1,14 @@
 # chat_app
+> *Learning Flutter: chapter VI*
 
-A new Flutter project.
+This project was build following a [Flutter & Dart Course by Maximilian Schwarzmüller](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/). The main learning focus in this section is the integration with main **Firebase** functionalities.
 
-## Getting Started
+I've been writing some notes while building the app. Here they are.
 
-This project is a starting point for a Flutter application.
+# Setting Up a Firebase project
 
-A few resources to get you started if this is your first Flutter project:
+# Install Firebase SDK
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Using Snapshots() stream
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+...in progress
